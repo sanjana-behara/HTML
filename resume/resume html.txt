@@ -1,0 +1,68 @@
+<! doctype HTML>
+<html>
+<head>
+<title>RESUME</title>
+</head>
+<body>
+<h2 align="left">BEHARA SRI SAI SANJANA</h2>
+<h4 align="left">sanjubehra01@gmail.com</h4><h4 align="left">7095464819</h4>
+<hr></hr>
+<h3><u>Objective</u></h3>
+<p>To learn and gain new experience while utilizing my interpersonal skills to help achieve business
+goals. Excellent analytical and developmental skills for a software engineer role. Looking to
+work for a dynamic organization with opportunities for career growth. Quick learner and
+problem solver</p>
+<hr></hr>
+<h3><u>Technical skills</u></h3>
+<ol type="1">
+<li>Languages - C, Python,</li>
+<li>Web Technologies - HTML, CSS</li>
+</ol>
+<h3><u>Soft skills</u></h3>
+<ol type="1">
+<li>Great Communicator</li>
+<li>Multitasker</li>
+</ol>
+<hr></hr>
+<h3><u>Eductional Qualification</u></h3>
+<h4>B.Tech</h4>
+<ol>
+<li>college: Vignan Institute Of Information Technology</li>
+<li>Stream: ECE</li>
+<li>Percentage Obtained: 76%</li>
+</ol>
+<h4>12th</h4>
+<ol>
+<li>college:Narayana Junior College</li>
+<li>Stream- PCM</li>
+<li>Percentage Obtained- 95.4%</li>
+</ol>
+<h4>10th</h4>
+<ol>
+<li>School:St.Francis De'sales School</li>
+<li>Percentage Obtained- 95%</li>
+</ol>
+<hr></hr>
+<h3><u>Certifications</u></h3>
+<ol>
+<li>Detect surroundingFundamentals of Network- COURSERA</li>
+<li>Networks and Theory-CISCO</li>
+<li>Introduction to Cybersecurity -CISCO</li>
+<li>CybersecurityEssentials-CISCO</li>
+</ol>
+<hr></hr>
+<h3><u>Position of Responsibilities</u></h3>
+<dl>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern at ZENTREE LABS PRIVATE LIMITED</dt>
+<dd><p>&nbsp;&nbsp;&nbsp;Home Automation using Esp8266 and Arduino IOT Cloud Platform</p></dd>
+<dt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project on CLASS AUTOMATION SYSTEM USING PNR SENSOR</dt>
+<dd><p>&nbsp;&nbsp;&nbsp;Detect surrounding humans/animals or any object radiating heat</p></dd>
+</dl>
+<hr></hr>
+<h3><u>Hobbies</u></h3>
+<ol>
+<li>Dancing</li>
+<li>music</li>
+</ol>
+</body>
+</html>

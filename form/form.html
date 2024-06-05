@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            margin-left:230px;
+            margin-top:-80px;
+            text-shadow:1px 1px black;
+        }
+        #img1{
+            margin-left:120px;
+            margin-top:10px;
+        }
+        #img2{
+            margin-left:1090px;
+            margin-top:-300px;
+        }
+        body{
+            background-color:beige;
+                }
+
+
+    </style>
+</head>
+<body>
+    <img src="C:\Users\LENOVO\Desktop\logo1.jpg"height="100"width="100"id="img1">
+    <h1><font color="maroon">VIGNAN INSTITUTE OF INFORMATION TECHNOLOGY</font></h1>
+    
+    <img src="C:\Users\LENOVO\Desktop\logo1.jpg"height="100"width="100"id="img2">
+    <br>
+    
+    
+
+    <h2 align="center"><font color="black">STUDENT REGISTRATION</font></h2><form>
+    <fieldset>
+        <legend><font color="black"face="sans serif"size="5">EDUCATIONAL DETAILS</font></legend>
+    
+        
+
+            
+    <table>
+        <tr>
+           
+           <td> <lable>COLLEGE</lable></td>
+           <td><input list="college"placeholder="select"required>
+            <datalist id="college"> 
+               <option>vignans institute of informtion technology</option>
+                <option>vignans womens</option>
+                <option>anil neelkonda</option>
+                  
+            
+        </td>
+        </tr>
+        <tr>
+            <td>
+            
+            <lable>SPECIALIZATION</lable></td>
+            <td>
+            <input list="SPECIALIZATION"placeholder="select"required>
+            <datalist id="SPECIALIZATION"> 
+               <option>electronics and communication</option>
+                <option>computer science</option>
+                <option>electrical engineering</option>
+                  
+            
+        </td>
+        </tr>
+        <tr>
+            <td>
+            
+            <lable>CGPA</lable></td>
+            
+            <td><input type="text" placeholding="CGPA" title="out of 10 points" pattern="[0-9]{1}"required>
+                  
+            
+        </td>
+        </tr>
+        <tr>
+            <td><lable>TECHNICALS SKILLS OBTAINED</lable></td>
+            </tr>
+            <tr><td></td>
+            <td>
+                <input type="checkbox" name="TS">HTML<br><br>
+                <input type="checkbox" name="TS">CSS<br><br>
+                <input type="checkbox" name="TS">NODE JS<br><br>
+                <input type="checkbox" name="TS">PYTHON<br><br>
+                 <input type="checkbox" name="TS">JAVA<br><br>
+                <input type="checkbox" name="TS">JAVA SCRIPT
+            </td>
+        </tr>
+        
+       
+    </table>
+
+
+    
+</fieldset>
+<fieldset>
+    <legend><font color="black"size="5"face="sans serif">PERSONAL DETAILS</font></legend>
+
+    <table>
+        <tr>
+            <td><label>FIRST NAME</label></td>
+            <td><input type="text"required></td>
+        </tr>
+        <tr>
+            <td><label>LAST NAME</label></td>
+            <td><input type="text"required></td>
+        </tr>
+        <tr>
+            <td><label>EMAIL ID</label></td>
+            <td><input type="email"placeholder="xxxx@gmil.com"required></td>
+        </tr>
+        <tr>
+            <td><label>PHONE NUMBER</label></td>
+            <td><input type="number"placeholder="+91xxxxxxxxxx"required></td>
+        </tr>
+        <tr>
+            <td><label>FATHERS NAME</label></td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td><label>MOTHERS NAME</label></td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td><label>GENDER</label></td>
+            <td><input type="radio"name="g">FEMALE
+            <input type="radio"name="g">MALE
+            <input type="radio"name="g">PREFER NOT TO SAY</td>
+        </tr>
+        
+    </table>
+
+
+</fieldset>
+<tr><td><input type="submit"value="register"></td></tr>
+</form>
+
+
+
+    
+</body>
+</html>
